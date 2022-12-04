@@ -48,6 +48,8 @@ const (
 	ELSE     = "ELSE"
 	RETURN   = "RETURN"
 	STRING   = "STRING"
+
+	COLON = ":"
 )
 
 type TokenType string
